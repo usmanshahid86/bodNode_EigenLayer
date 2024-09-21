@@ -1,5 +1,6 @@
 {
   "name": "bodNode",
   "website": "https://www.example.com",
-  "description": "Testnet Operator for EigenLayer"
+  "description": "Testnet Operator for EigenLayer",
+  "logo" : "https://github.com/usmanshahid86/bodNode_EigenLayer/blob/f797182648de89b64440c24632c26a928b486e88/favicon-16x16.png"
 }
