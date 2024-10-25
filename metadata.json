@@ -1,6 +1,7 @@
 {
-  "name": "bodNode",
-  "website": "https://www.example.com",
-  "description": "Testnet Operator for EigenLayer",
-  "logo": "https://i.ibb.co/W6cVJF1/bod-logo.png"
+  "name": "bitDSMNode",
+  "website": "https://www.bitdsm.org",
+  "description": "Testnet Operator for BitDSM AVS",
+  "logo": "https://raw.githubusercontent.com/usmanshahid86/bodNode_EigenLayer/6ae6424d3c291ae28031d4d46746e925d4f75b25/bod_logo.png"
+  "twitter": "https://twitter.com/eigenlayer"
 }
